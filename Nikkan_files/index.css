@@ -335,6 +335,12 @@ ul {
   font-weight: bold;
   font-size: 180%;
   text-align:center; }
+  @media screen and (max-width: 480px) {
+    .logo {
+      padding: 100px 0px 30px;
+      text-align: center;
+    }
+  }
   .logo .logoimg {
     /* display: block; */
     width: 48%;
@@ -344,7 +350,7 @@ ul {
       .logo .logoimg {
         width: 100%;
         margin: auto; 
-        padding: 100px 0px 30px} }
+        padding: 100px 0px 30px;} }
 
 
 
