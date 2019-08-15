@@ -343,7 +343,7 @@ ul {
     @media screen and (max-width: 480px) {
       .logo .logoimg {
         width: 100%;
-        margin: auto; } }
+        margin: 10%; } }
 
 
 
@@ -599,6 +599,6 @@ textarea{
       margin: 0 auto 30px; }
       @media screen and (max-width: 480px) {
           footer .footerlogo {
-          width: 100%;
+          width: 80%;
           margin: auto; } }
 
