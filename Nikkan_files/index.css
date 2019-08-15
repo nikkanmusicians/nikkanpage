@@ -385,7 +385,7 @@ ul {
     width: 80%;
     margin: 0 auto 30px; 
     font-size: 17px;
-    text-align: left; }
+    text-align: justify; }
 
   .text blockquote{
     /* width: 700px; */
@@ -399,7 +399,7 @@ ul {
 
 .shomei1{
   width: 80%;
-  margin:0 auto 30px;
+  margin:0 6% 30px;
   font-size: 17px;
   text-align: right;
 }
