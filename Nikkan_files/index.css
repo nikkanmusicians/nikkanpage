@@ -342,7 +342,7 @@ ul {
     fill: black; }
     @media screen and (max-width: 480px) {
       .logo .logoimg {
-        width: 100%;
+        width: 90%;
         margin: 10% 0 0 5%; } }
 
 
