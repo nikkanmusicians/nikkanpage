@@ -601,5 +601,5 @@ textarea{
       @media screen and (max-width: 480px) {
           footer .footerlogo {
           width: 80%;
-          margin: auto; } }
+          margin: auto auto 20% auto; } }
 
