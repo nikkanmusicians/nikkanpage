@@ -342,8 +342,9 @@ ul {
     fill: black; }
     @media screen and (max-width: 480px) {
       .logo .logoimg {
-        width: 90%;
-        margin: 100px 0 20px; } }
+        width: 100%;
+        margin: auto; 
+        padding: 100px 0px 30px} }
 
 
 
