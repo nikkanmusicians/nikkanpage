@@ -349,7 +349,7 @@ ul {
     fill: black; }
     @media screen and (max-width: 480px) {
       .logo .logoimg {
-        /* display: inline-block; */
+        display: inline-block;
         width: 100%;
         margin: auto; 
         padding: 30px 0px 20px;} }
