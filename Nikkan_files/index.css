@@ -338,7 +338,7 @@ ul {
   @media screen and (max-width: 480px) {
     .logo {
       display: inline-block;
-      padding: 50px 0px 30px;
+      padding: 40px 0px 20px;
       text-align: center;
     }
   }
@@ -349,9 +349,10 @@ ul {
     fill: black; }
     @media screen and (max-width: 480px) {
       .logo .logoimg {
+        /* display: inline-block; */
         width: 100%;
         margin: auto; 
-        padding: 30px 0px 20px;} }
+        padding: 40px 0px 20px;} }
 
 
 
