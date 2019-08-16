@@ -448,40 +448,6 @@ textarea{
   box-sizing: border-box;
   display: flex;
 }
-
-.contents #menu {
- width: 100%;
- display: flex; }
-  
-#menu li {
-  position: relative;
-  /* list-style: none; */
-  float: left;
-  width: 33.3333%;
-  background: #fff;
-  border-right: 1px solid #fff;
-  box-sizing: border-box; }
-  
-#menu li a {
-  display: block;
-  position: relative;
-  /* width: 150px; */
-  /* height: 40px; */
-  /* line-height: 2.8; */
-  /* border-right: 1px solid #eee; */
-  /* box-sizing: border-box; */
-  padding: 10px 0;
-  color: #000;
-  text-decoration: none;
-  text-align: center;
-  font-weight: bold;
-  transition: 0.5s; }
-
-#menu li ul {
-    top: 40px;
-    left: 32%;
-    position: absolute;
-  }
   
 .box1 {
   clear: both;
